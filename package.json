@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/stephendpmurphy/joulescope-js#readme",
   "dependencies": {
-    "node-hid": "^2.1.1"
+    "node-hid": "^2.1.1",
+    "usb": "^1.6.5"
   }
 }
