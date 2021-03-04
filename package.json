@@ -1,0 +1,22 @@
+{
+  "name": "joulescope-js",
+  "version": "1.0.0",
+  "description": "Joulescope API in JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephendpmurphy/joulescope-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephendpmurphy/joulescope-js/issues"
+  },
+  "homepage": "https://github.com/stephendpmurphy/joulescope-js#readme",
+  "dependencies": {
+    "node-hid": "^2.1.1"
+  }
+}
